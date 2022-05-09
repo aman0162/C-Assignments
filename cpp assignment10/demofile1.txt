@@ -1,0 +1,3 @@
+File handling is used to store a data permanently in computer. The data can be stored in secondary memory (hard disk) using file handling.
+The I/O data can easily transferred from one computer to another by using files.
+The C++ standard library provides fstream class for performing Read and Write operations.
